@@ -1,0 +1,28 @@
+<resources>
+    <!-- APP -->
+    <string name="app_name">Vulnerable Door</string>
+    <string name="onepoint_logo_description">onepoint logo</string>
+
+    <!-- ALARM -->
+    <string name="alarm_button">Alarm button to activate or desactivate alarm</string>
+    <string name="alarm_not_found">Boîtier d\'alarme non détecté</string>
+    <string name="alarm_activated">Alarme Activée</string>
+    <string name="alarm_deactivated">Alarme désactivée</string>
+    <string name="alarm_deactivated_connecting">Alarme en cours de connection ...</string>
+    <string name="alarm_info_to_wait">Attendre que le téléphone se connecte à l\'alarme</string>
+    <string name="alarm_info_to_desctivate_alarm">Appuyer pour désactiver</string>
+    <string name="alarm_info_to_activate_alarm">Appuyer pour réactiver</string>
+    <string name="alarm_info_to_wait_during_connecting"></string>
+
+    <!-- CONNEXION -->
+    <string name="iOT_vulndoor_service_uuid">0000ffe0-0000-1000-8000-00805f9b34fb</string>
+    <string name="iOT_vulndoor_characteristic_uuid">0000ffe1-0000-1000-8000-00805f9b34fb</string>
+    <string name="iOT_vulndoor_descriptor_uuid">00002902-0000-1000-8000-00805f9b34fb</string>
+
+    <!-- SETTINGS -->
+    <string name="settings_button">Configurer</string>
+    <string name="validate_settings_button">Valider</string>
+    <string name="error_message_when_connection_rejected">Erreur : Connexion rejetée</string>
+    <string name="settings_text_to_configure_telephone_number">Configurer un numéro de téléphone</string>
+    <string name="settings_telephone_number_input_description">Input pour saisir le numéro de téléphone</string>
+</resources>
