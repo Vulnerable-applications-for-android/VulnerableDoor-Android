@@ -42,6 +42,7 @@ public class MainActivity extends BaseActivity {
 
         // Permissions : Location
         checkPermissionsLocation();
+
     }
 
     @Override
